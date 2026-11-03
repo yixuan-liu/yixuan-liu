@@ -30,13 +30,13 @@ Next.js · TypeScript · Python · FastAPI · LangGraph · PostgreSQL
 
 A research workspace for historical military artifacts that uses retrieval-augmented generation (RAG). It combines document editing and semantic search with streaming AI answers and source references.
 
-React · TypeScript · NestJS · PostgreSQL · Qdrant
+React · NestJS · PostgreSQL · Qdrant
 
 ### [Mars and Memory](https://github.com/yixuan-liu/mars-and-memory)
 
-An interactive web experience for exploring historical artifacts through scroll-driven storytelling, with image zooming and panning to bring details into view.
+An interactive 3D digital archive for historical military artifacts, with crowdsourced provenance.
 
-Next.js · TypeScript · Framer Motion
+Next.js · React Three Fiber · Supabase
 
 ## Find me online
 
