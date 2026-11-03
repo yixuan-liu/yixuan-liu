@@ -24,19 +24,19 @@ Certified across the Agent Development Lifecycle (ADLC), from building agents wi
 
 A local collections catalog and AI-assisted research workspace for historical military artifacts. It brings artifact images, source documents, and conversations into one interface, with assistants for explaining objects and comparing them with historical regulations.
 
-Next.js · TypeScript · Python · FastAPI · LangGraph · PostgreSQL
+Next.js · FastAPI · LangGraph · PostgreSQL
 
 ### [Mars and Memory Archive](https://github.com/yixuan-liu/mars-and-memory-archive)
 
 A research workspace for historical military artifacts that uses retrieval-augmented generation (RAG). It combines document editing and semantic search with streaming AI answers and source references.
 
-React · NestJS · PostgreSQL · Qdrant
+Next.js · NestJS · PostgreSQL · Qdrant
 
 ### [Mars and Memory](https://github.com/yixuan-liu/mars-and-memory)
 
-An interactive 3D digital archive for historical military artifacts, with crowdsourced provenance.
+An interactive web experience for exploring historical artifacts through scroll-driven storytelling, with image zooming and panning to bring details into view.
 
-Next.js · React Three Fiber · Supabase
+Next.js · Framer Motion · Supabase
 
 ## Find me online
 
