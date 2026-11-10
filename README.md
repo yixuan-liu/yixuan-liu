@@ -20,6 +20,12 @@ Certified across the Agent Development Lifecycle (ADLC), from building agents wi
 
 ## Projects
 
+### [NMAH Military Collection MCP](https://github.com/yixuan-liu/nmah-military-collection-mcp)
+
+A read-only MCP server and local Playground for exploring the Armed Forces History collections at the Smithsonian’s National Museum of American History (NMAH). It lets users and MCP clients search collection records, retrieve object metadata, and check image sources and usage rights.
+
+Python · FastMCP · Vanilla JavaScript · Smithsonian Open Access API
+
 ### Militaria Chronicles — Collections & Research · WIP
 
 A local collections catalog and AI-assisted research workspace for historical military artifacts. It brings artifact images, source documents, and conversations into one interface, with assistants for explaining objects and comparing them with historical regulations.
